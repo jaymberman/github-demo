@@ -4,4 +4,5 @@ Guten Tag
 Auf Wiedersehen
 Bis Morgen
 Tschuess
+Hallo
 Gruess dich
